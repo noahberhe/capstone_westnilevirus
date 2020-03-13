@@ -1,4 +1,7 @@
-<img src="http://imgur.com/1ZcRyrc.png" alt="Capstone: West Nile Virus" width="60">
+<img src="http://imgur.com/1ZcRyrc.png" width="60">
+# Capstone: West Nile Virus
+
+![alt text](http://imgur.com/1ZcRyrc.png "Capstone: West Nile Virus")
 
 ## Competition Description:
 
