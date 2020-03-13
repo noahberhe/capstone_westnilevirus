@@ -1,5 +1,5 @@
-<img src="http://imgur.com/1ZcRyrc.png" width="60">
 # Capstone: West Nile Virus
+<img src="http://imgur.com/1ZcRyrc.png" width="60">
 
 ## Competition Description:
 
@@ -32,3 +32,7 @@ Modelling:
 Prediction:
 - 
 - Tableau used to map quality of predictions geographically and temporally.
+
+Outcome:
+-
+- Gradient Boosting was the selected classifier, however despite achieving a cross-validated auc of 82%, the test score was 58% placing it a lowly 1180th out of 1300 submissions on Kaggle. This overfitting problem is something I looked into after the course was over, as documented in the Python Notebook.
