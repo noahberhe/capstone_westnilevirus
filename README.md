@@ -1,8 +1,6 @@
 <img src="http://imgur.com/1ZcRyrc.png" width="60">
 # Capstone: West Nile Virus
 
-![alt text](http://imgur.com/1ZcRyrc.png "Capstone: West Nile Virus")
-
 ## Competition Description:
 
 West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
