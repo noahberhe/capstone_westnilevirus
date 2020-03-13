@@ -1,8 +1,6 @@
 # Capstone: West Nile Virus
 
-For my final project I chose a Kaggle competition set up by the Chicago's Department of Public Health.
-
-## Competition Description (taken from https://www.kaggle.com/c/predict-west-nile-virus/):
+## Competition Description:
 
 West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
 
