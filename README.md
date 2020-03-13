@@ -1,4 +1,4 @@
-![alt text] ("http://imgur.com/1ZcRyrc.png")
+[alt text] ("http://imgur.com/1ZcRyrc.png")
 
 # Capstone: West Nile Virus
 
