@@ -1,4 +1,4 @@
-<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 55px">
+<img src="http://imgur.com/1ZcRyrc.png" style="float: left; margin: 20px; height: 5px">
 # Capstone: West Nile Virus
 
 ## Competition Description:
