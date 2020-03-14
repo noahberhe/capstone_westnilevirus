@@ -35,4 +35,4 @@ Prediction:
 
 Outcome:
 -
-- Gradient Boosting was the selected classifier, however despite achieving a cross-validated auc of 82%, the test score was 58% placing it a lowly 1180th out of 1300 submissions on Kaggle. This overfitting problem is something I looked into after the course was over, as documented in the Python Notebook.
+- Gradient Boosting was the selected classifier, however despite achieving a cross-validated auc of 82%, the test score was 66%. This overfitting problem is something I looked into after the course was over, as documented in the Python Notebook.
