@@ -32,7 +32,14 @@ Modelling:
 Prediction:
 - 
 - Tableau used to map quality of predictions geographically and temporally.
+- Tableau .twb file also provided in this repo
 
 Outcome:
 -
-- Gradient Boosting was the selected classifier, however despite achieving a cross-validated auc of 82%, the test score was 66%. This overfitting problem is something I looked into after the course was over, as documented in the Python Notebook.
+- Gradient Boosting was the selected classifier, however despite achieving a cross-validated auc of 82%, the test score was 66%.
+- Conclusions detailed in the python notebook
+
+Potential Improvements:
+-
+- Feature engineering to reduce trap granularity could perhaps address the overfitting and improve the test score?
+- Could also experiment with other methods like SVM or Neural Nets.
