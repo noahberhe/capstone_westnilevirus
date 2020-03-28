@@ -36,7 +36,7 @@ Prediction:
 
 Outcome:
 -
-- Gradient Boosting was the selected classifier, however despite achieving a cross-validated auc of 82%, the test score was 66%.
+- Gradient Boosting was the selected classifier, however despite achieving a cross-validated auc of 93%, the test score was 69%.
 - Conclusions detailed in the python notebook
 
 Potential Improvements:
