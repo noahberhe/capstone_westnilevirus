@@ -41,5 +41,6 @@ Outcome:
 
 Potential Improvements:
 -
+- Selective downsampling to remove those instances of the majority class least helpful in predicting for the virus, e.g. could strip out 2nd and 3rd years' data as these had very few cases of the virus, or remove May, Oct months that also had very few incidences.
 - Feature engineering to reduce trap granularity could perhaps address the overfitting and improve the test score?
 - Could also experiment with other methods like SVM or Neural Nets.
